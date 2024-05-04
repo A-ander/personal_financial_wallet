@@ -47,4 +47,4 @@
 ### Требования
 
 - Python 3.6 или выше
-- Библиотека `tabulate` (установите с помощью `pip install tabulate`
+- Библиотека `tabulate` (установите с помощью `pip install tabulate`)
